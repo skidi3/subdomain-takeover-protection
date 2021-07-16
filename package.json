@@ -1,0 +1,23 @@
+{
+  "name": "subdomain-takeover-protection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.3.0",
+    "@aws-sdk/node-http-handler": "^3.3.0",
+    "@aws-sdk/types": "^3.3.0",
+    "aws-sdk": "^2.946.0",
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^10.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "typescript": "^4.0.2"
+  }
+}

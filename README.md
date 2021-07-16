@@ -1,12 +1,12 @@
-# 'Securing businesses from subdomain takeover
+# Securing businesses from subdomain takeover
 
-# Setup locally
+## Setup locally
 
-## 1. npm install
+### 1. npm install
 
-## 2. cd src
+### 2. cd src
 
-## 3. node subdomain.js OR nodemon subdomain.js
+### 3. node subdomain.js OR nodemon subdomain.js
 
 ## Resources
 

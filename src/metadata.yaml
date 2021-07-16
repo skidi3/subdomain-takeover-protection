@@ -1,0 +1,9 @@
+---
+# subdomain-takeover-protection
+files:
+  - path: ./libs/s3Client.js
+    services:
+      - s3
+  - path: subdomain.js
+    services:
+      - s3

@@ -5,8 +5,8 @@ const { response } = require("express");
 const rp = require("request-promise");
 
 //Initialization of keys
-const accessKeyId = "AKIAYZVSVZHE7A54B4FM";
-const secretAccessKey = "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";
+const accessKeyId = "";
+const secretAccessKey = "";
 
 //Connection
 AWS.config.update({
